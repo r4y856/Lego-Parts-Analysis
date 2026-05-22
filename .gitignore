@@ -1,0 +1,7 @@
+venv/
+.venv/
+*.db
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+inventory_files/
