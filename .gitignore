@@ -6,3 +6,4 @@ __pycache__/
 .vscode/
 inventory_files/
 clean_data/
+report_data/
